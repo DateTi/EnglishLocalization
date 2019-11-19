@@ -8,7 +8,7 @@
     },
     "autoload": {
         "psr-4": {
-            "DateTi\\Localization\\": "src/Localization"
+            "DateTi\\Localization\\English\\": "src/Localization/English"
         }
     },
     "license": "Apache-2.0",
@@ -19,3 +19,4 @@
         }
     ]
 }
+
